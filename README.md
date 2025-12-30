@@ -1,7 +1,6 @@
 ## 1. Introduction
 
-This project analyses mortality statistics in Ireland using data from the Central Statistics Office (CSO) - Namely **Age-Standardised Mortality Rate
-**. [Central Statistics Office (CSO)](https://data.cso.ie/)  
+This project analyses mortality statistics in Ireland using data from the Central Statistics Office (CSO) - Namely **Age-Standardised Mortality Rate. [Central Statistics Office (CSO)](https://data.cso.ie/)  
 The main goals are:
 
 1. **Data cleaning** – Deal with missing values, inconsistent formats, and outliers.  
@@ -17,7 +16,7 @@ This notebook is intended to demonstrate the full data analysis workflow, from r
     - [Seaborn](#Seaborn)
     - [Matplotlib](#Matplotlib)
 - [Findings](#Findings)
-    - [Running the Script](#Running-the-Script)
+    - [Git Organisation](#Git-Organisation)
     - [Summarising the Data](#Summarising-the-Data)
 - [References](#References)
 
@@ -66,15 +65,13 @@ For more help in understanding and dealing with each package, please make sure t
 
 ### Git Organisation
 
-The following repository was organised in a way that is in line with most data analytics repositories, with a cleaned data and raw data folder, containing the data analysed. The Jupyter Notebook will contain all the information needed with explanations on how the code works as well as how references were used.
+The following repository was organised in a way that is in line with most data analytics repositories, with separate cleaned data and raw data folders containing the analysed data. The Jupyter Notebook contains all the required information, including explanations of how the code works and how references were used.
 
 ### Summarising the Data
 
-Explanations on the analysis of the data set can also be found in the Jupyter Notebook alongside the code explanations. 
+Explanations of the data set analysis can also be found in the Jupyter Notebook alongside the code explanations. Code references will be included inside the actual code as comments.
 >
-Below, you'll also find a list of references. These have also been included in the Jupyter Notebooks since superscript reference numbers are used to indicate where each reference was used.
-
-### References
+Below, you will also find a list of references. These have been included at the end of the Jupyter Notebook as well. Superscript reference numbers are used to indicate where each reference was applied.
 
 ### References:
 
